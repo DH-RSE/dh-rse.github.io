@@ -32,3 +32,5 @@ werden können.
 Stephan tweetet [@StephanJanosch](https://twitter.com/StephanJanosch).
 Seine Keynote hören wir am 
 [Dienstag, 27.2.2018, um 09:30 Uhr](https://dh-rse.github.io/dhd-workshop-2018/).
+
+_Nachtrag_: Die Folien der Keynote sind online verfügbar: [https://doi.org/10.6084/m9.figshare.5928415](https://doi.org/10.6084/m9.figshare.5928415)
