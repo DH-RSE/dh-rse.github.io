@@ -21,12 +21,21 @@ description: "AG Research Software Engineering in den Digital Humanities (im DHd
 baseurl: # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jekyll
+exclude: [blog-tmp,post-template]
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+# Separator for blog post excerpts
+excerpt_separator: <!--more-->
+
+# Rakefile settings
+post:
+  template: post-template/template.md
+  extension: md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
