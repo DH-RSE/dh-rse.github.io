@@ -25,7 +25,7 @@ CONFIG = YAML.load_file("_config.yml")
 
 # Get and parse the date
 DATE = Time.now.strftime("%Y-%m-%d")
-TIME = Time.now.strftime("%H:%M:%S")
+TIME = Time.now.strftime("%H:%M")
 POST_TIME = DATE + ' ' + TIME
 
 # Directories
