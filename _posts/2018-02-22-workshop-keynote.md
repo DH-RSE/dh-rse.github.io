@@ -4,10 +4,13 @@ title:  "DHd2018 Workshop: Keynote von Stephan Janosch (de-RSE)"
 date:   2018-02-22 13:15
 categories: workshop dhd2018
 author: Stephan Druskat
+authornames: Stephan Druskat
 ---
 Wir freuen uns ungemein, dass Stephan Janosch beim [Workshop "Research Software 
 Engineering und Digital Humanities. Reflexion, Kartierung, Organisation."](https://dh-rse.github.io/dhd-workshop-2018/) 
 die Keynote geben wird.
+
+<!--more-->
 
 Stephan ist [Research Software Engineer](http://rse.ac.uk/2016/06/08/what-is-a-research-software-engineer/) 
 am [Max-Planck-Institut für molekulare Zellbiologie und Genetik](https://www.mpi-cbg.de/de/home/)
