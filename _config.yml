@@ -37,6 +37,13 @@ post:
   template: post-template/template.md
   extension: md
 
+# Metadata for images
+defaults:
+  - scope:
+      path: "assets/blog/img"
+    values:
+      image: true
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
