@@ -2,7 +2,7 @@
 layout: post
 title: "Gute Dokumentation als Basis für nachhaltige Software"
 date: 2018-06-29 12:43
-categories: workshop dhd2018
+categories: workshop dhd2018 dokumentation nachhaltigkeit
 # Full author list with affiliations
 author: "Carsten Thiel (Niedersächsische Staats- und Universitätsbibliothek Göttingen, DARIAH-DE), Julia Dolhoff (Johannes Gutenberg-Universität Mainz, Digitale Akademie Mainz)"
 # Just the authornames as a comma-separated list for display in blog overview
