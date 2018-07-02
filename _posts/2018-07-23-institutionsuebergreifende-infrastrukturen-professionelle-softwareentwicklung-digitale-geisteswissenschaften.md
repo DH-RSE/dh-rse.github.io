@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welche institutionsübergreifenden Infrastrukturen brauchen wir für eine professionelle Softwareentwicklung in den digitalen Geisteswissenschaften?"
-date: 2018-06-29 13:48
+date: 2018-07-23 13:00
 categories: workshop dhd2018 infrastrukturen institutionen professionalität
 # Full author list with affiliations
 author: "Fabian Steeg (steeg@hbz-nrw.de), Sophie Schneider (sophie.schneider@fh-potsdam.de), Peter Gietz (peter.gietz@daasi.de)"

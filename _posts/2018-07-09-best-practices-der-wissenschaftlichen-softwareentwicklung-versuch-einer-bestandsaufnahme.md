@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Best Practices der wissenschaftlichen Softwareentwicklung: Versuch einer Bestandsaufnahme"
-date: 2018-06-29 13:23
+date: 2018-07-09 13:00
 categories: workshop dhd2018 best-practices
 # Full author list with affiliations
 author: "Andreas Wagner (Max-Planck-Institut für europäische Rechtsgeschichte/Akademie der Wissenschaften und der Literatur Mainz), Dominik Kasper (Akademie der Wissenschaften und der Literatur Mainz), Peter Dängeli (Cologne Center for eHumanities/Akademie der Wissenschaften und der Künste NRW)"

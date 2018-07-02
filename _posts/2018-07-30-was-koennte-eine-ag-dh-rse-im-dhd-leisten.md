@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Was könnte eine AG DH-RSE im DHd leisten?"
-date: 2018-06-29 14:16
+date: 2018-07-30 13:00
 categories: workshop dhd2018 ag
 # Full author list with affiliations
 author: "Stefan Dumont (dumont@bbaw.de, http://orcid.org/0000-0002-6923-0950), Stephan Janosch (de-RSE, MPI-CBG, https://orcid.org/0000-0002-2401-6862), Torsten Roeder (https://orcid.org/0000-0001-7043-7820)"
