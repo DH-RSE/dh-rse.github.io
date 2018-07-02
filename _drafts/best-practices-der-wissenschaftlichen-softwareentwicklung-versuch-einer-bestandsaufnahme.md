@@ -59,7 +59,7 @@ Institutionen offenbar zum Teil durchaus vorgesehen, solches Wissen zu
 veröffentlichen, so die entsprechend angebundenen Teilnehmerinnen der
 Gruppe. Erste Anfänge wurden hier bereits gemacht,[^4] aber die dafür
 nötige redaktionelle Aufbereitung und Abstraktion von allzu spezifischen
-Kontexten ist aufwendig und hat gegenüber der Forschungs- und
+Kontexten ist aufwändig und hat gegenüber der Forschungs- und
 Entwicklungsarbeit meist niedrigere Priorität. Daher haben im Moment und
 bis auf Weiteres „Einzelkämpferinnen" große Schwierigkeiten, Zugang zu
 solchem Wissen zu finden. Oft bleiben diesen dann nur zeit- und z. T.
@@ -68,7 +68,7 @@ Teilnahme an nicht-fachwissenschaftlichen Konferenzen oder der Einkauf
 von „Agentur-Know-How".
 
 Vor diesem Hintergrund sollte ein Verband oder eine Arbeitsgruppe
-sicherlich einerseits den großen und vielfältigen Bedarf ebenso wie die
+einerseits den großen und vielfältigen Bedarf ebenso wie die
 Möglichkeiten (und die Verantwortung) beschreiben, die solche
 Institutionen in gewisser Weise haben, zugleich aber eben auch
 Unterstützung etwa in Form eines institutionsübergreifenden
@@ -76,7 +76,7 @@ Publikationsangebots (wie einer DHd-AG-Plattform) entwickeln, und nicht
 zuletzt selbst an der Formulierung und Dokumentierung von *Best
 Practices* mitwirken. Diese letztgenannte Mitwirkung ist sicherlich ein
 wichtiger Weg, um auch die Erfahrungen von Entwicklerinnen
-einzubeziehen, die nicht an einer aktiven Institution oder im Rahmen
+einzubeziehen, die nicht an einer größeren Institution oder im Rahmen
 eines gut vernetzten Kreises arbeiten. Umgekehrt könnte die
 RSE-Plattform wiederum für die Einzelentwickler einen wichtigen Dienst
 leisten, indem z. B. über Termine von Tagungen und Workshops sowie
@@ -93,9 +93,9 @@ Wissenstransfers über eine AG-Plattform getan.
 
 Konkrete Themen und Fragen, bei denen Bedarf an *Best Practices*
 besteht, haben wir in folgende, sich zum Teil überschneidende und
-voneinander abhängige Bereiche gruppiert. Die Einteilung ist sicherlich
+voneinander abhängige Bereiche gruppiert. Die Einteilung ist natürlich
 diskutabel und erweiterbar. Auch inhaltlich können die Ergebnisse einer
-Workshop-Diskussion kaum den Anspruch auf Vollständigkeit haben, wir
+Workshop-Diskussion kaum den Anspruch auf Vollständigkeit erheben, wir
 hoffen damit aber einen ersten Beitrag zur oben angesprochenen
 Verbreitung von Wissen über eine AG- bzw. RSE-Plattform leisten zu
 können.
@@ -123,48 +123,48 @@ relevanten Entscheidungen und die verwendeten Ressourcen transparent zu
 machen und ggf. zu publizieren. Wenn Tools zur expliziten
 *Projektadministration* eingesetzt werden sollen, ist es wünschenswert,
 auf Erfahrungen mit (und Empfehlungen zu) Projektmanagement-Systemen wie
-z. B. *Redmine[^6]* und Kalender-Lösungen (z.B. *ownCloud/nextCloud*,
-*MS* *Outlook*) zurückgreifen zu können; auch hier ist bislang wenig zu
+z. B. *Redmine*[^6] und Kalender-Lösungen (z.B. *ownCloud/nextCloud*,
+*MS Outlook*) zurückgreifen zu können; auch hier ist bislang wenig zu
 finden. Interessant nicht nur für die Zusammenarbeit beim Code
 schreiben, sondern auch in den Bereichen Administration und
 Dokumentation, hier aber noch nicht überall durchgesetzt, ist die
-Verbindung zwischen diesen Tools und dem im nächsten Punkt beschriebenen
+Verbindung zwischen diesen Tools und den im nächsten Punkt beschriebenen
 *version control systems* (VCS).
 
 *Data- und Computing-Leistungen* werden meistens bei (mehr oder weniger)
 externen Partnern oder Dienstleistern gehostet (das können universitäre
-Rechenzentren, Verbände wie die *GWDG[^7]* oder privatwirtschaftliche
+Rechenzentren, Verbünde wie die *GWDG*[^7] oder privatwirtschaftliche
 Provider wie *Strato* sein). Es wäre von Vorteil, einen Überblick, wenn
 schon nicht über die verschiedenen Angebote, so doch über die Kriterien,
 zu haben, die man bei der Evaluation eines solchen Angebots
 möglicherweise berücksichtigen sollte (Backup- und
 Sicherheitsstrategien, Betriebs- und Virtualisierungssysteme,
-*Docker[^8]*- oder *Vagrant[^9]*-Lösungen, Konfigurationsmanagement mit
-*Puppet[^10]*, *Ansible[^11]* o. Ä., *Support Response Time*-Garantien
+*Docker*[^8]- oder *Vagrant*[^9]-Lösungen, Konfigurationsmanagement mit
+*Puppet*[^10], *Ansible*[^11] o. Ä., *Support Response Time*-Garantien
 ...).
 
 ## (b) Disposition/Deployment von Software (Ablage, Sicherung,
 Verteilung, Versionierung, Zitierfähigkeit)
 
 Jede substanzielle Arbeit an Programmcode oder Forschungsdaten sollte
-*versionskontrolliert* erfolgen. Versionierung mit *Git[^12]* hat in den
-letzten Jahren *Subversion, Mercurial/Hg* und ähnlichen Ansätzen den
+*versionskontrolliert* erfolgen. Versionierung mit *Git*[^12] hat in den
+letzten Jahren *Subversion*, *Mercurial/Hg* und ähnlichen Ansätzen den
 Rang abgelaufen und ist zweifellos eine gute Wahl. Hier kann man
 sicherlich bereits von einem sehr erfolgreich eingesetzten Werkzeug
-sprechen. Ob *GitLab[^13]* (OpenSource, lokal installierbar), *GitHub*
+sprechen. Ob *GitLab*[^13] (OpenSource, lokal installierbar), *GitHub*
 (weltweit bekannt, ideal für weitere Kollaboration) oder andere
-Plattformen (z.B. *Apache Allura, AWS CodeCommit, Bitbucket, Google
-Cloud Source, SourceForge*, etc) eingesetzt werden, hängt letztlich vom
+Plattformen (z.B. *Apache Allura*, *AWS CodeCommit*, *Bitbucket*, *Google
+Cloud Source*, *SourceForge*, etc) eingesetzt werden, hängt letztlich vom
 jeweiligen Team und Projekt ab, ebenso wie die Wahl eines einfachen oder
-komplexeren *Branching-Modells[^14]* und die Nutzung von *Pull-Requests*
-und *Code-Review*. Wünschenswert wäre hier sicher eine konkrete
+komplexeren *Branching-Modells*[^14] und die Nutzung von *Pull-Requests*
+und *Code-Reviews*. Wünschenswert wäre hier sicher eine konkrete
 Beschreibung wie genau und in welchem Umfang VCS bei der Durchführung
 von verschiedenen Forschungs- und Entwicklungsvorhaben mit
 unterschiedlichen Dimensionen zum Einsatz kommen.
 
 Git und Plattformen wie GitHub eignen sich auch gut zur
 *Release*-Verwaltung. Insbesondere bestehen auch
-Integrationsmöglichkeiten mit FAIR-Datenrepositorien wie *Zenodo[^15]*.
+Integrationsmöglichkeiten mit FAIR-Datenrepositorien wie *Zenodo*[^15].
 Indem man einen Commit als Release taggt, macht (z. B.) GitHub Zenodo
 automatisch auf diesen aufmerksam, und der betreffende Snapshot wird ins
 Datenarchiv transferiert, wo er langfristig verfügbar und über einen
@@ -183,8 +183,8 @@ konsequent durchgeführt wird. Zumindest kritische Module und Funktionen
 sollten aber wenn möglich automatisch getestet werden (Unit-,
 Integrations- und andere Tests). Die AdWL Mainz führt generell
 *Cross-Browser-Testings* bei Websites durch und hat gute Erfahrungen mit
-automatisierten Test von in *Gherkin[^17]* geschrieben
-*BDD[^18]*-Dokumenten über *behat[^19]* gemacht. Dennoch scheint *Code
+automatisierten Test von in *Gherkin*[^17] geschrieben
+*BDD*[^18]-Dokumenten über *behat*[^19] gemacht. Dennoch scheint *Code
 Coverage* im RSE noch kein sehr aussagekräftiges oder anzustrebendes Maß
 zu sein.
 
@@ -194,10 +194,10 @@ einem Status der Erprobung und des (fortgeschrittenen) Experiments.
 Einige Einrichtungen haben für die Entwicklung von Vorhaben
 „Basis-Instanzen" einer Plattform eingerichtet, die dann
 projektspezifisch angepasst wird: Solche Methoden werden z. B. mit
-*Django[^20]*-Instanzen (ACDH), *eXist[^21]*-Instanzen (AdWL Mainz,
-ACDH) und *TYPO3[^22]*-Instanzen (AdWL Mainz) praktiziert. Das „Cultural
+*Django*[^20]-Instanzen (ACDH), *eXist*[^21]-Instanzen (AdWL Mainz,
+ACDH) und *TYPO3*[^22]-Instanzen (AdWL Mainz) praktiziert. Das „Cultural
 Heritage Framework" aus Mainz[^23] und das Ediarum-System der BBAW[^24]
-sind in ähnlicher Weise Base-Instanzen, die aber schon konkreter auf
+sind in ähnlicher Weise Basis-Instanzen, die aber schon konkreter auf
 geisteswissenschaftliche Projekte zugeschnitten sind.
 
 Erfahrungen mit und Ergebnisse von solchen Methoden wären für die
@@ -232,7 +232,7 @@ Jede Entwicklerin hat ihre präferierte Sprache, Entwicklungsumgebung und
 *Coding Style*, und es scheint oft nicht möglich (mangels weiterer
 Kompetenz in dieser Sprache), dort etwas zu vereinheitlichen. Allerdings
 bringen einige Sprachen (wie *Go* oder *Elm*) verbindliche
-Style-Vorgaben mit, andere (wie *Python* über *PEP8[^26]*) legen diese
+Style-Vorgaben mit, andere (wie *Python* über *PEP8*[^26]) legen diese
 doch nachdrücklich nahe. In solchen Fällen sollten diese denn auch
 unbedingt berücksichtigt werden. Ebenso zu empfehlen ist der Einsatz von
 sog. *Linting*-Werkzeugen, die sowohl sprachspezifisch verbindliche
@@ -278,8 +278,8 @@ Ansicht nach erschweren:
     Entwicklerinnenstellen** sowohl bei
     Infrastruktur-Partnerinstitutionen als auch in den RSE-Kontexten
     sehr schwer einzurichten.
-2.  Große Konsortien, die theoretische vielfältige Stimmen und Bedarfe
-    bündeln können, wie *CLARIN[^31]* und *DARIAH[^32]* erscheinen
+2.  Große Konsortien, die theoretisch vielfältige Stimmen und Bedarfe
+    bündeln können, wie *CLARIN*[^31] und *DARIAH*[^32] erscheinen
     teilweise zu sehr *top-down* aufgebaut, viele Angebote und
     Vorschläge sind/scheinen zu generisch. Wünschenswert erschienen uns
     in diesem Kontext konkrete Berichte aus Einzelprojekten, die sich in
