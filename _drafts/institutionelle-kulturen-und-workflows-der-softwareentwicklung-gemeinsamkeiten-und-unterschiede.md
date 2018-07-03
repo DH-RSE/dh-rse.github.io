@@ -21,6 +21,9 @@ Workshop.
 
 <!--more-->
 
+![](img/institutionelle-kulturen-und-workflows-der-softwareentwicklung-gemeinsamkeiten-und-unterschiede.png){width="6.5in"
+height="3.9028in"}
+
 ## Verschiedene Umfelder
 
 In den Digital Humanities kann es sehr verschieden sein, in welchem
