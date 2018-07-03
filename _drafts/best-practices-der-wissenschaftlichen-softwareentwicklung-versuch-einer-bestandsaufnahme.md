@@ -114,7 +114,7 @@ Auch Diskussionen darüber, was selbst entwickelt, welche Software
 nachgenutzt werden kann und unter welchen rechtlichen und technischen
 Bedingungen diese Nachnutzung stattfinden darf, sowie was an externe
 Dienstleister beauftragt werden soll, werden in vielen Projekten
-geführt, sind aber kaum dokumentiert.
+geführt, sind aber kaum dokumentiert.[^6]
 
 Viele Gruppen profitieren von *Kollaborations-Tools* wie Wikis,
 Bugtracker, *Slack-/Hipchat-/RocketChat-/Mattermost*-Channels. Dies kann
@@ -123,7 +123,7 @@ relevanten Entscheidungen und die verwendeten Ressourcen transparent zu
 machen und ggf. zu publizieren. Wenn Tools zur expliziten
 *Projektadministration* eingesetzt werden sollen, ist es wünschenswert,
 auf Erfahrungen mit (und Empfehlungen zu) Projektmanagement-Systemen wie
-z. B. *Redmine*[^6] und Kalender-Lösungen (z.B. *ownCloud/nextCloud*,
+z. B. *Redmine*[^7] und Kalender-Lösungen (z.B. *ownCloud/nextCloud*,
 *MS Outlook*) zurückgreifen zu können; auch hier ist bislang wenig zu
 finden. Interessant nicht nur für die Zusammenarbeit beim Code
 schreiben, sondern auch in den Bereichen Administration und
@@ -133,30 +133,30 @@ Verbindung zwischen diesen Tools und den im nächsten Punkt beschriebenen
 
 *Data- und Computing-Leistungen* werden meistens bei (mehr oder weniger)
 externen Partnern oder Dienstleistern gehostet (das können universitäre
-Rechenzentren, Verbünde wie die *GWDG*[^7] oder privatwirtschaftliche
+Rechenzentren, Verbünde wie die *GWDG*[^8] oder privatwirtschaftliche
 Provider wie *Strato* sein). Es wäre von Vorteil, einen Überblick, wenn
 schon nicht über die verschiedenen Angebote, so doch über die Kriterien,
 zu haben, die man bei der Evaluation eines solchen Angebots
 möglicherweise berücksichtigen sollte (Backup- und
 Sicherheitsstrategien, Betriebs- und Virtualisierungssysteme,
-*Docker*[^8]- oder *Vagrant*[^9]-Lösungen, Konfigurationsmanagement mit
-*Puppet*[^10], *Ansible*[^11] o. Ä., *Support Response Time*-Garantien
+*Docker*[^9]- oder *Vagrant*[^10]-Lösungen, Konfigurationsmanagement mit
+*Puppet*[^11], *Ansible*[^12] o. Ä., *Support Response Time*-Garantien
 ...).
 
 ## (b) Disposition/Deployment von Software (Ablage, Sicherung,
 Verteilung, Versionierung, Zitierfähigkeit)
 
 Jede substanzielle Arbeit an Programmcode oder Forschungsdaten sollte
-*versionskontrolliert* erfolgen. Versionierung mit *Git*[^12] hat in den
+*versionskontrolliert* erfolgen. Versionierung mit *Git*[^13] hat in den
 letzten Jahren *Subversion*, *Mercurial/Hg* und ähnlichen Ansätzen den
 Rang abgelaufen und ist zweifellos eine gute Wahl. Hier kann man
 sicherlich bereits von einem sehr erfolgreich eingesetzten Werkzeug
-sprechen. Ob *GitLab*[^13] (OpenSource, lokal installierbar), *GitHub*
+sprechen. Ob *GitLab*[^14] (OpenSource, lokal installierbar), *GitHub*
 (weltweit bekannt, ideal für weitere Kollaboration) oder andere
 Plattformen (z.B. *Apache Allura*, *AWS CodeCommit*, *Bitbucket*, *Google
 Cloud Source*, *SourceForge*, etc) eingesetzt werden, hängt letztlich vom
 jeweiligen Team und Projekt ab, ebenso wie die Wahl eines einfachen oder
-komplexeren *Branching-Modells*[^14] und die Nutzung von *Pull-Requests*
+komplexeren *Branching-Modells*[^15] und die Nutzung von *Pull-Requests*
 und *Code-Reviews*. Wünschenswert wäre hier sicher eine konkrete
 Beschreibung wie genau und in welchem Umfang VCS bei der Durchführung
 von verschiedenen Forschungs- und Entwicklungsvorhaben mit
@@ -164,11 +164,11 @@ unterschiedlichen Dimensionen zum Einsatz kommen.
 
 Git und Plattformen wie GitHub eignen sich auch gut zur
 *Release*-Verwaltung. Insbesondere bestehen auch
-Integrationsmöglichkeiten mit FAIR-Datenrepositorien wie *Zenodo*[^15].
+Integrationsmöglichkeiten mit FAIR-Datenrepositorien wie *Zenodo*[^16].
 Indem man einen Commit als Release taggt, macht (z. B.) GitHub Zenodo
 automatisch auf diesen aufmerksam, und der betreffende Snapshot wird ins
 Datenarchiv transferiert, wo er langfristig verfügbar und über einen
-*Digital Object Identifier* (DOI) aufrufbar bleibt.[^16] Klar ist auch,
+*Digital Object Identifier* (DOI) aufrufbar bleibt.[^17] Klar ist auch,
 dass nach Möglichkeit auch die in den Projekten erhobenen, verwendeten
 oder veränderten *Daten* versionskontrolliert verwaltet und publiziert
 werden sollten. In vielen Fällen ist dies durchaus auf demselben Weg wie
@@ -183,8 +183,8 @@ konsequent durchgeführt wird. Zumindest kritische Module und Funktionen
 sollten aber wenn möglich automatisch getestet werden (Unit-,
 Integrations- und andere Tests). Die AdWL Mainz führt generell
 *Cross-Browser-Testings* bei Websites durch und hat gute Erfahrungen mit
-automatisierten Test von in *Gherkin*[^17] geschrieben
-*BDD*[^18]-Dokumenten über *behat*[^19] gemacht. Dennoch scheint *Code
+automatisierten Test von in *Gherkin*[^18] geschrieben
+*BDD*[^19]-Dokumenten über *behat*[^20] gemacht. Dennoch scheint *Code
 Coverage* im RSE noch kein sehr aussagekräftiges oder anzustrebendes Maß
 zu sein.
 
@@ -194,9 +194,9 @@ einem Status der Erprobung und des (fortgeschrittenen) Experiments.
 Einige Einrichtungen haben für die Entwicklung von Vorhaben
 „Basis-Instanzen" einer Plattform eingerichtet, die dann
 projektspezifisch angepasst wird: Solche Methoden werden z. B. mit
-*Django*[^20]-Instanzen (ACDH), *eXist*[^21]-Instanzen (AdWL Mainz,
-ACDH) und *TYPO3*[^22]-Instanzen (AdWL Mainz) praktiziert. Das „Cultural
-Heritage Framework" aus Mainz[^23] und das Ediarum-System der BBAW[^24]
+*Django*[^21]-Instanzen (ACDH), *eXist*[^22]-Instanzen (AdWL Mainz,
+ACDH) und *TYPO3*[^23]-Instanzen (AdWL Mainz) praktiziert. Das „Cultural
+Heritage Framework" aus Mainz[^24] und das Ediarum-System der BBAW[^25]
 sind in ähnlicher Weise Basis-Instanzen, die aber schon konkreter auf
 geisteswissenschaftliche Projekte zugeschnitten sind.
 
@@ -209,7 +209,7 @@ Projektleiterinnen,\...?
 
 Aktuell scheint sich auf dem Feld der *Zitation* von Software ein
 Vorschlag zu konkretisieren, der vielleicht das Zeug zu einer *Best
-Practice* hat.[^25] Solche Bestrebungen gilt es aufzunehmen, kritisch zu
+Practice* hat.[^26] Solche Bestrebungen gilt es aufzunehmen, kritisch zu
 diskutieren und ggf. nach Kräften weiter bekannt zu machen.
 
 ## (c) Coding
@@ -232,20 +232,20 @@ Jede Entwicklerin hat ihre präferierte Sprache, Entwicklungsumgebung und
 *Coding Style*, und es scheint oft nicht möglich (mangels weiterer
 Kompetenz in dieser Sprache), dort etwas zu vereinheitlichen. Allerdings
 bringen einige Sprachen (wie *Go* oder *Elm*) verbindliche
-Style-Vorgaben mit, andere (wie *Python* über *PEP8*[^26]) legen diese
+Style-Vorgaben mit, andere (wie *Python* über *PEP8*[^27]) legen diese
 doch nachdrücklich nahe. In solchen Fällen sollten diese denn auch
 unbedingt berücksichtigt werden. Ebenso zu empfehlen ist der Einsatz von
 sog. *Linting*-Werkzeugen, die sowohl sprachspezifisch verbindliche
 Vorgaben kennen, als auch bei der Fehlerbehebung und Qualitätskontrolle
-helfen.[^27] Darüber hinaus kann es eigentlich immer mindestens
+helfen.[^28] Darüber hinaus kann es eigentlich immer mindestens
 bedenkenswert sein, sich an Standards für
-Inline-Code-Dokumentation[^28], API Dokumentation[^29] u. ä. zu
+Inline-Code-Dokumentation[^29], API Dokumentation[^30] u. ä. zu
 orientieren - und dies auch selbst deutlich zu machen/zu dokumentieren.
 
 Wo und wie -- außer im Quellcode -- eine *Dokumentation* der Software
 erstellt und publiziert wird, ist noch weniger offensichtlich. Durch
 GitHub haben README-Dateien im Markdown-Format an Popularität gewonnen,
-daneben sind u. a. Wiki-Lösungen und HTML-Dokumentationen prominent.
+daneben sind u. a. Wiki-Lösungen und HTML-Dokumentationen prominent.[^31]
 
 Ein wichtiger Punkt betrifft die Absicherung der Software: Nach unserem
 Eindruck gibt es einige allgemeine Methoden und *Best Practices* in der
@@ -259,7 +259,7 @@ einer öffentlichen Darstellung, welche dieser Methoden sich wie im
 Rahmen geisteswissenschaftlicher Projekte umsetzen lassen. Auch hier
 besteht also ein großer Bedarf an der Formulierung von *Best Practices*.
 
-Auf dem Feld der Entwurfsmuster[^30] ist zur Zeit noch kaum an *Best
+Auf dem Feld der Entwurfsmuster[^32] ist zur Zeit noch kaum an *Best
 Practices* zu denken, fehlen doch jegliche Erfahrungsberichte, die
 Software und Prozesse in dieser Weise beschreiben.
 
@@ -279,7 +279,7 @@ Ansicht nach erschweren:
     Infrastruktur-Partnerinstitutionen als auch in den RSE-Kontexten
     sehr schwer einzurichten.
 2.  Große Konsortien, die theoretisch vielfältige Stimmen und Bedarfe
-    bündeln können, wie *CLARIN*[^31] und *DARIAH*[^32] erscheinen
+    bündeln können, wie *CLARIN*[^33] und *DARIAH*[^34] erscheinen
     teilweise zu sehr *top-down* aufgebaut, viele Angebote und
     Vorschläge sind/scheinen zu generisch. Wünschenswert erschienen uns
     in diesem Kontext konkrete Berichte aus Einzelprojekten, die sich in
@@ -308,87 +308,93 @@ Ansicht nach erschweren:
 [^5]: Vgl.
     [*http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions*](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
 
-[^6]: Siehe [*https://www.redmine.org/*](https://www.redmine.org/).
+[^6]: Zu Fragen der Dokumentation vgl. auch den
+     [*Beitrag der Workshopgruppe "Gute Dokumentation als Basis für nachhaltige Software"*](https://dh-rse.github.io/workshop/dhd2018/dokumentation/nachhaltigkeit/2018/07/02/gute-dokumentation-als-basis-fuer-nachhaltige-software.html).
 
-[^7]: Gesellschaft für wissenschaftliche Datenverarbeitung mbH
+[^7]: Siehe [*https://www.redmine.org/*](https://www.redmine.org/).
+
+[^8]: Gesellschaft für wissenschaftliche Datenverarbeitung mbH
     Göttingen: [*https://www.gwdg.de/*](https://www.gwdg.de/).
 
-[^8]: Siehe [*https://www.docker.com/*](https://www.docker.com/).
+[^9]: Siehe [*https://www.docker.com/*](https://www.docker.com/).
 
-[^9]: Siehe
+[^10]: Siehe
     [*https://www.vagrantup.com/*](https://www.vagrantup.com/).
 
-[^10]: Siehe [*https://puppet.com/*](https://puppet.com/).
+[^11]: Siehe [*https://puppet.com/*](https://puppet.com/).
 
-[^11]: Siehe [*https://www.ansible.com/*](https://www.ansible.com/).
+[^12]: Siehe [*https://www.ansible.com/*](https://www.ansible.com/).
 
-[^12]: Siehe [*https://git-scm.com/*](https://git-scm.com/), eine
+[^13]: Siehe [*https://git-scm.com/*](https://git-scm.com/), eine
     sehr schlanke und gelungene Einführung findet sich hier:
     [*https://rogerdudler.github.io/git-guide/index.de.html*](https://rogerdudler.github.io/git-guide/index.de.html).
 
-[^13]: Siehe [*https://about.gitlab.com/*](https://about.gitlab.com/).
+[^14]: Siehe [*https://about.gitlab.com/*](https://about.gitlab.com/).
 
-[^14]: Vgl. [*https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows*](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows).
+[^15]: Vgl. [*https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows*](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows).
 
-[^15]: Siehe [*https://zenodo.org/*](https://zenodo.org/).
+[^16]: Siehe [*https://zenodo.org/*](https://zenodo.org/).
 
-[^16]: Vgl.
+[^17]: Vgl.
     [*https://guides.github.com/activities/citable-code/*](https://guides.github.com/activities/citable-code/),
     siehe jetzt auch
     [*https://blogs.tib.eu/wp/tib/2018/03/21/konkrete-ratschlaege-fuer-nachhaltigere-wissenschaftliche-softwareprojekte/*](https://blogs.tib.eu/wp/tib/2018/03/21/konkrete-ratschlaege-fuer-nachhaltigere-wissenschaftliche-softwareprojekte/).
 
-[^17]: Siehe
+[^18]: Siehe
     [*https://github.com/cucumber/cucumber/wiki/Gherkin*](https://github.com/cucumber/cucumber/wiki/Gherkin).
 
-[^18]: Behavior Driven Development, vgl. [*https://dannorth.net/introducing-bdd/*](https://dannorth.net/introducing-bdd/).
+[^19]: Behavior Driven Development, vgl. [*https://dannorth.net/introducing-bdd/*](https://dannorth.net/introducing-bdd/).
 
-[^19]: A php framework for autotesting your business expectations,
+[^20]: A php framework for autotesting your business expectations,
     siehe
     [*http://behat.org/en/latest/*](http://behat.org/en/latest/).
 
-[^20]: Siehe
+[^21]: Siehe
     [*https://www.djangoproject.com/*](https://www.djangoproject.com/).
 
-[^21]: Siehe [*http://exist-db.org/*](http://exist-db.org/).
+[^22]: Siehe [*http://exist-db.org/*](http://exist-db.org/).
 
-[^22]: Siehe [*https://typo3.org/*](https://typo3.org/).
+[^23]: Siehe [*https://typo3.org/*](https://typo3.org/).
 
-[^23]: Vgl. Schrade, Torsten: Sammlungs- und Editionsportale mit dem
+[^24]: Vgl. Schrade, Torsten: Sammlungs- und Editionsportale mit dem
     Cultural Heritage Framework der Digitalen Akademie. Vortrag im
     Rahmen des Workshops „Editionsportale" an der Universität Jena,
     03.-04.08.2017, URL:
     [*https://digicademy.github.io/2017-editionsportale-jena/*](https://digicademy.github.io/2017-editionsportale-jena/),
     Step 14-19.
 
-[^24]: Vgl. ediarum - eine digitale Arbeitsumgebung für
+[^25]: Vgl. ediarum - eine digitale Arbeitsumgebung für
     Editionsvorhaben, URL:
     [*http://www.bbaw.de/telota/software/ediarum*](http://www.bbaw.de/telota/software/ediarum).
 
-[^25]: Vgl. Druskat, Stephan et al.: A standard format for CITATION
+[^26]: Vgl. Druskat, Stephan et al.: A standard format for CITATION
     files, URL:
     [*https://www.software.ac.uk/blog/2017-12-12-standard-format-citation-files*](https://www.software.ac.uk/blog/2017-12-12-standard-format-citation-files).
 
-[^26]: Siehe
+[^27]: Siehe
     [*https://www.python.org/dev/peps/pep-0008/*](https://www.python.org/dev/peps/pep-0008/).
 
-[^27]: Siehe
+[^28]: Siehe
     [*https://eslint.org/docs/about/*](https://eslint.org/docs/about/)
     als Beispiel für einen *JavaScript-Linter*, allgemein zu *lint* bzw.
     *linting*:
     [*https://de.wikipedia.org/wiki/Lint\_(Programmierwerkzeug)*](https://de.wikipedia.org/wiki/Lint_(Programmierwerkzeug)).
 
-[^28]: Siehe
+[^29]: Siehe
     [*https://dev.to/raddikx/dont-document-your-code-code-your-documentation*](https://dev.to/raddikx/dont-document-your-code-code-your-documentation)
     (vgl. auch die Diskussion in den Kommentaren),
     [*http://www.yacoset.com/Home/inline-documentation*](http://www.yacoset.com/Home/inline-documentation),
     [*https://make.wordpress.org/core/handbook/best-practices/inline-documentation-standards/*](https://make.wordpress.org/core/handbook/best-practices/inline-documentation-standards/).
 
-[^29]: [*https://blog.readme.io/documenting-your-api-in-your-code-with-swagger/*](https://blog.readme.io/documenting-your-api-in-your-code-with-swagger/).
+[^30]: [*https://blog.readme.io/documenting-your-api-in-your-code-with-swagger/*](https://blog.readme.io/documenting-your-api-in-your-code-with-swagger/).
 
-[^30]: Siehe
+[^31]: Vgl. erneut den
+     [*Beitrag der Workshopgruppe "Gute Dokumentation als Basis für nachhaltige Software"*](https://dh-rse.github.io/workshop/dhd2018/dokumentation/nachhaltigkeit/2018/07/02/gute-dokumentation-als-basis-fuer-nachhaltige-software.html).
+
+[^32]: Siehe
     [*https://de.wikipedia.org/wiki/Entwurfsmuster*](https://de.wikipedia.org/wiki/Entwurfsmuster).
 
-[^31]: Siehe
+[^33]: Siehe
     [*https://www.clarin-d.net/*](https://www.clarin-d.net/).
 
-[^32]: Siehe [*https://de.dariah.eu/*](https://de.dariah.eu/).
+[^34]: Siehe [*https://de.dariah.eu/*](https://de.dariah.eu/).
