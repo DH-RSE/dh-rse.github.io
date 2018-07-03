@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ausbildung, Training, Software Carpentry: Situation, Fallbeispiele und Initiativen"
-date: 2018-07-16 13:00
+date: 2018-07-23 13:00
 categories: workshop dhd2018 ausbildung training software-carpentry
 # Full author list with affiliations
 author: "Sviatoslav Drach (Universität zu Köln), Marjam Mahmoodzada (ADWL Mainz), Lisa Kolodzie (JGU Mainz), Peter Mühleder (UB Leipzig), Lucia Sohmen (TIB Hannover)"
