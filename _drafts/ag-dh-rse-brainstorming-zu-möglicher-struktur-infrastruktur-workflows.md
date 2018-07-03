@@ -12,16 +12,14 @@ authornames: Uwe Kretschmer, Thomas Kollatz, Patrick Toschka
 # overview, use: <!--more-->
 ---
 
-Excerpt
-
-<!--more-->
-
 Die Breakout-Gruppe des Workshops "Research Software Engineering und Digital 
 Humanities. Reflexion, Kartierung, Organisation." zur DHd 2018 hat zunächst 
 persönliche Erfahrungen zu Struktur, Infrastruktur und Workflows gesammelt. 
 Dabei hat sich eine Gliederung in
 die folgenden drei Bereiche ergeben: Definition, Inventarisierung,
 Lösungsvorschläge.
+
+<!--more-->
 
 ## Definition
 
