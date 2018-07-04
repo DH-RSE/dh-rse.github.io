@@ -21,8 +21,7 @@ Workshop.
 
 <!--more-->
 
-![](img/institutionelle-kulturen-und-workflows-der-softwareentwicklung-gemeinsamkeiten-und-unterschiede.png){width="6.5in"
-height="3.9028in"}
+![Softwareentwicklung Workflow]({{ "/assets/blog/img/dev-workflow.png" | absolute_url }})
 
 ## Verschiedene Umfelder
 

@@ -28,6 +28,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+encoding: utf-8
 
 # Separator for blog post excerpts
 excerpt_separator: <!--more-->
