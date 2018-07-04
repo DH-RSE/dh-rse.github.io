@@ -14,7 +14,8 @@ authornames: "Fabian Steeg, Sophie Schneider, Peter Gietz"
 
 ![Bahngleise mit unterschiedlichen Spurbreiten. Quelle: Gediminas, GFDL, https://commons.wikimedia.org/wiki/File:Rail_Baltica_Lietuva.jpg]({{ "/assets/blog/img/rails.png" | absolute_url }})
 
-Bahngleise mit unterschiedlichen Spurbreiten. Quelle: Gediminas, GFDL, [https://commons.wikimedia.org/wiki/File:Rail_Baltica_Lietuva.jpg](https://commons.wikimedia.org/wiki/File:Rail_Baltica_Lietuva.jpg).
+Welche Infrastrukturen, und wie viele? <br/>
+<small>(Quelle: Gediminas, GFDL, [https://commons.wikimedia.org/wiki/File:Rail_Baltica_Lietuva.jpg](https://commons.wikimedia.org/wiki/File:Rail_Baltica_Lietuva.jpg), Ausschnitt bearbeitet).</small>
 {: class="figure-legend"}
 
 Im Rahmen der DHd 2018 fand am 27. Februar in Köln der Workshop
@@ -35,7 +36,7 @@ womit sollten wir uns zukünftig stärker auseinandersetzen, wenn es um
 die Infrastrukturen für Softwareentwicklung in den digitalen
 Geisteswissenschaften geht? Sprechen wir hierbei von Standards für
 Schnittstellen, von Metadatenstandards für den Datenaustausch? Von
-einheitliche Suchoberflächen? Oder ist das ein ganz anderer Bereich?
+einheitlichen Suchoberflächen? Oder ist das ein ganz anderer Bereich?
 Sind Daten und Software grundsätzlich getrennte Themen mit
 unterschiedlichen Ansprüchen an Infrastruktur? Oder gehen die
 Anforderungen hier Hand in Hand?
@@ -70,8 +71,8 @@ Integration von GitHub anbietet und so etablierte Entwicklungsworkflows
 um fehlende Aspekte wie DOI-Vergabe für Software erweitert. Dass
 Forschungsinfrastruktur nicht über Projektförderung nachhaltig werden
 kann, wurde von vielen Förderern erkannt und es gibt mittlerweile neue
-entsprechende Ansätze, wie etwa NFDI und die Nachhaltigkeitsbestrebungen
-von DARIAH-DE.
+entsprechende Ansätze, wie etwa die Nationale Forschungsdateninfrastruktur 
+(NFDI) und die Nachhaltigkeitsbestrebungen von DARIAH-DE.
 
 ## Welche Anforderungen werden an die Software-Infrastrukturen gestellt?
 
@@ -85,11 +86,11 @@ von[
 ](https://de.dariah.eu/virtuelle-maschinen)[*DARIAH*](https://de.dariah.eu/virtuelle-maschinen)
 und der[
 ](https://www.gwdg.de/server-services/virtual-server)[*GWDG*](https://www.gwdg.de/server-services/virtual-server).
-Nicht nur an rechnerischen Kapazitäten fehlt es an mancher Stelle, teils
+Nicht nur an Rechnerkapazität fehlt es an mancher Stelle, teils
 sind auch die Kompetenzen der Vermittler und Dienstleister, z.B. des
 Bibliothekspersonals, noch ausbaufähig. Hier liegt großes Potential:
-durch eine forcierte Aus- und Weiterbildung des Personals - gerade in
-Bezug auf softwarespezifische Fragen der Fachwissenschaft - kann
+durch eine forcierte Aus- und Weiterbildung des Personals &ndash; gerade in
+Bezug auf softwarespezifische Fragen der Fachwissenschaft &ndash; kann
 ebenfalls indirekt wichtige Infrastruktur geschaffen werden.
 
 ## Worin bestehen die größten Herausforderungen?
@@ -117,33 +118,33 @@ Infrastruktur nicht nur für Forschungsdaten, sondern auch für die
 Softwareentwicklung bereitstellen. Weitere nationale und internationale
 Maßnahmen sind etwa[
 ](https://www.clarin-d.net/de/)[*CLARIN-D*](https://www.clarin-d.net/de/),
-die Nationale Forschungsdaten-Infrastruktur[
+die Nationale Forschungsdateninfrastruktur[
 ](https://www.bmbf.de/de/empfehlungen-zum-management-von-forschungsdaten-3036.html)[*NFDI*](https://www.bmbf.de/de/empfehlungen-zum-management-von-forschungsdaten-3036.html)
 und die European Open Science Cloud[
 ](https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud)[*EOSC*](https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud).
 Des Weiteren können auch spezialisierte Gruppen und Initiativen wie etwa
 die [*AG eHumanities der Akademienunion*](http://www.akademienunion.de/arbeitsgruppen/ehumanities/),
-die DHd AG [*Research Software Engineering in den Digital Humanities (DH-RSE)*](http://dig-hum.de/ag-research-software-engineering-den-digital-humanities) und
-Datenzentren, das Digital Scholarly Editions Initial Training Network [*DiXiT*](http://dixit.uni-koeln.de/) oder
-das Institut für Dokumentologie und Editorik [*IDE*](https://www.i-d-e.de/) im Sinne der oben
-beschriebenen fachspezifischen Anforderungen hilfreich sein.
+die DHd AG [*Research Software Engineering in den Digital Humanities (DH-RSE)*](http://dig-hum.de/ag-research-software-engineering-den-digital-humanities), 
+die [*Datenzentren für die Geisteswissenschaften*](https://dhd-ag-datenzentren.github.io/), 
+oder das Institut für Dokumentologie und Editorik [*IDE*](https://www.i-d-e.de/) 
+im Sinne der oben beschriebenen fachspezifischen Anforderungen hilfreich sein.
 
 ## Ausblick
 
 Unter den Teilnehmenden des gesamten RSE-Workshops stellt das
 Bibliothekswesen laut einer im Vorfeld durchgeführten
-[*Umfrage*](https://dh-rse.github.io/dhd-workshop-2018-presentation/)
+[*Umfrage*](https://dh-rse.github.io/dhd-workshop-2018-presentation/#/step-4)
 lediglich einen geringen Anteil dar, unsere Arbeitsgruppe jedoch bestand
-etwa zur Hälfte aus MitarbeiterInnen beziehungsweise Studierenden des
-bibliothekarischen Bereichs. Das Bibliothekswesen scheint also auch im
+etwa zur Hälfte aus MitarbeiterInnen beziehungsweise Studierenden aus dem
+bibliothekarischen Bereich. Das Bibliothekswesen scheint also auch im
 Bereich der Forschungssoftware seine Rolle als Infrastrukturanbieter
 wahrnehmen zu wollen.
 
 Insgesamt wird deutlich, dass die Arbeitsgruppe mehr Fragen als
 Antworten gefunden hat. Dies zeigt aber auch, dass es hier noch
 Handlungs- und Diskussionsbedarf auf den verschiedensten Ebenen gibt. Es
-wurde schon viel Vorarbeit geleistet, häufig findet allerdings
-schlichtweg der Suchende nicht zu dem bestimmten Angebot, welches seinen
+wurde schon viel Vorarbeit geleistet, häufig finden allerdings
+schlichtweg Suchende nicht zu dem bestimmten Angebot, welches ihren
 spezifischen Anforderungen gerecht wird. Hier könnte die Bereitstellung
 und Bündelung von Informationen über die bestehenden Angebote helfen.
 Auch dies ist eine mögliche Auffassung von Infrastruktur: nicht nur
