@@ -100,8 +100,7 @@ hoffen damit aber einen ersten Beitrag zur oben angesprochenen
 Verbreitung von Wissen über eine AG- bzw. RSE-Plattform leisten zu
 können.
 
-## (a) Projektorganisation (Projekt- und Zeitmanagement,
-Kontrolle, Kollaboration, Hosting, Backup, Virtualisierung)
+## (a) Projektorganisation (Projekt- und Zeitmanagement, Kontrolle, Kollaboration, Hosting, Backup, Virtualisierung)
 
 In diesem Bereich fehlt ein Überblick über Strategien des *Requirements
 Engineering*: Wie werden die Anforderungen -- in Kooperation mit
@@ -143,8 +142,7 @@ Sicherheitsstrategien, Betriebs- und Virtualisierungssysteme,
 *Puppet*[^11], *Ansible*[^12] o. Ä., *Support Response Time*-Garantien
 ...).
 
-## (b) Disposition/Deployment von Software (Ablage, Sicherung,
-Verteilung, Versionierung, Zitierfähigkeit)
+## (b) Disposition/Deployment von Software (Ablage, Sicherung, Verteilung, Versionierung, Zitierfähigkeit)
 
 Jede substanzielle Arbeit an Programmcode oder Forschungsdaten sollte
 *versionskontrolliert* erfolgen. Versionierung mit *Git*[^13] hat in den
@@ -284,6 +282,11 @@ Ansicht nach erschweren:
     Vorschläge sind/scheinen zu generisch. Wünschenswert erschienen uns
     in diesem Kontext konkrete Berichte aus Einzelprojekten, die sich in
     diesen Konsortien und deren Angeboten realisieren ließen.
+
+  
+---
+
+### Fußnoten
 
 [^1]: Austrian Center for Digital Humanities:
     [*https://www.oeaw.ac.at/acdh/*](https://www.oeaw.ac.at/acdh/).
