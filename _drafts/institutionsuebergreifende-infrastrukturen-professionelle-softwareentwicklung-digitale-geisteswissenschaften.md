@@ -49,8 +49,8 @@ betrachten und interpretieren lässt. Eine Programmierschnittstelle ist
 Infrastruktur. Ein Software-Repository für Forschungssoftware ist
 Infrastruktur. Versionskontrolle und Ticket-Systeme sind Infrastruktur.
 Und auch die professionelle Weiterbildung zu Themen der
-Softwareentwicklung oder die von Stephan Janosch [*in seiner
-Workshop-Keynote*](https://dh-rse.github.io/workshop/dhd2018/2018/02/22/workshop-keynote.html)
+Softwareentwicklung oder die von Stephan Janosch 
+[*in seiner Workshop-Keynote*](https://dh-rse.github.io/workshop/dhd2018/2018/02/22/workshop-keynote.html)
 beschriebenen RSE-Teams, die FachwissenschaftlerInnen nach Bedarf
 unterstützen, stellen in gewisser Weise Infrastruktur dar.
 
@@ -65,14 +65,14 @@ in privater Hand und damit eventuell nachhaltiger sind? Oder sind
 privatwirtschaftliche Lösungen faktisch sogar nachhaltiger als
 Infrastrukturen, die von befristeten Projektmitteln abhängen? Ein
 pragmatischer Ansatz besteht hier in der Kombination von bestehenden und
-neuen Lösungen wie etwa bei[
-](https://zenodo.org/)[*Zenodo*](https://zenodo.org/), welches eine
+neuen Lösungen wie etwa bei [*Zenodo*](https://zenodo.org/), welches eine
 Integration von GitHub anbietet und so etablierte Entwicklungsworkflows
 um fehlende Aspekte wie DOI-Vergabe für Software erweitert. Dass
 Forschungsinfrastruktur nicht über Projektförderung nachhaltig werden
 kann, wurde von vielen Förderern erkannt und es gibt mittlerweile neue
 entsprechende Ansätze, wie etwa die Nationale Forschungsdateninfrastruktur 
-(NFDI) und die Nachhaltigkeitsbestrebungen von DARIAH-DE.
+(NFDI) und die Nachhaltigkeitsbestrebungen von [*DARIAH-DE*](https://de.dariah.eu/) 
+und [*CLARIN-D*](https://www.clarin-d.net/de/).
 
 ## Welche Anforderungen werden an die Software-Infrastrukturen gestellt?
 
@@ -81,11 +81,9 @@ einzelnen Organisationen gebunden. So wird in der Gruppenbesprechung
 etwa deutlich, dass z.B. in Akademien und Bibliotheken ein großer Bedarf
 an Rechenleistung besteht, während Universitäten mit ihren eigenen
 Rechenzentren hier meist keine Probleme haben. Möglichkeiten zur Nutzung
-von Rechenleistung in Form von virtuellen Maschinen gibt es im Rahmen
-von[
-](https://de.dariah.eu/virtuelle-maschinen)[*DARIAH*](https://de.dariah.eu/virtuelle-maschinen)
-und der[
-](https://www.gwdg.de/server-services/virtual-server)[*GWDG*](https://www.gwdg.de/server-services/virtual-server).
+von Rechenleistung in Form von virtuellen Maschinen gibt es z.B. im Rahmen
+von [*DARIAH-DE*](https://de.dariah.eu/virtuelle-maschinen)
+und der [*GWDG*](https://www.gwdg.de/server-services/virtual-server).
 Nicht nur an Rechnerkapazität fehlt es an mancher Stelle, teils
 sind auch die Kompetenzen der Vermittler und Dienstleister, z.B. des
 Bibliothekspersonals, noch ausbaufähig. Hier liegt großes Potential:
@@ -111,21 +109,16 @@ kleinere Bedarfe gefördert werden können.
 
 ## Welche Angebote existieren bereits?
 
-In der Gruppe angesprochene Infrastrukturangebote sind etwa die[
-](https://de.dariah.eu/list-services)[*in DARIAH bereitgestellten
-Services*](https://de.dariah.eu/list-services), welche vielmals
-Infrastruktur nicht nur für Forschungsdaten, sondern auch für die
+In der Gruppe angesprochene Infrastrukturangebote sind etwa die 
+[*in DARIAH bereitgestellten Services*](https://de.dariah.eu/list-services), 
+welche vielmals Infrastruktur nicht nur für Forschungsdaten, sondern auch für die
 Softwareentwicklung bereitstellen. Weitere nationale und internationale
-Maßnahmen sind etwa[
-](https://www.clarin-d.net/de/)[*CLARIN-D*](https://www.clarin-d.net/de/),
-die Nationale Forschungsdateninfrastruktur[
-](https://www.bmbf.de/de/empfehlungen-zum-management-von-forschungsdaten-3036.html)[*NFDI*](https://www.bmbf.de/de/empfehlungen-zum-management-von-forschungsdaten-3036.html)
-und die European Open Science Cloud[
-](https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud)[*EOSC*](https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud).
+Maßnahmen sind etwa [*CLARIN-D*](https://www.clarin-d.net/de/),
+die Nationale Forschungsdateninfrastruktur [*NFDI*](https://www.bmbf.de/de/empfehlungen-zum-management-von-forschungsdaten-3036.html)
+und die European Open Science Cloud [*EOSC*](https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud).
 Des Weiteren können auch spezialisierte Gruppen und Initiativen wie etwa
 die [*AG eHumanities der Akademienunion*](http://www.akademienunion.de/arbeitsgruppen/ehumanities/),
-die DHd AG [*Research Software Engineering in den Digital Humanities (DH-RSE)*](http://dig-hum.de/ag-research-software-engineering-den-digital-humanities), 
-die [*Datenzentren für die Geisteswissenschaften*](https://dhd-ag-datenzentren.github.io/), 
+die DHd AG [*Research Software Engineering in den Digital Humanities (DH-RSE)*](http://dig-hum.de/ag-research-software-engineering-den-digital-humanities), die DHd AG [*Datenzentren für die Geisteswissenschaften*](https://dhd-ag-datenzentren.github.io/), 
 oder das Institut für Dokumentologie und Editorik [*IDE*](https://www.i-d-e.de/) 
 im Sinne der oben beschriebenen fachspezifischen Anforderungen hilfreich sein.
 
