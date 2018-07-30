@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Institutionelle Kulturen und Workflows der Softwareentwicklung: Gemeinsamkeiten und Unterschiede"
-date: 2018-07-16 13:00
+date: 2018-07-30 13:00
 categories: workshop dhd2018 kultur community workflows
 # Full author list with affiliations
 author: Annette van Dyck-Hemming, Andrea Notroff (Berlin-Brandenburgische Akademie der Wissenschaften), Carolin Odebrecht (Humboldt-Universität zu Berlin), Nils Reichert (Herzog August Bibliothek Wolfenbüttel)
