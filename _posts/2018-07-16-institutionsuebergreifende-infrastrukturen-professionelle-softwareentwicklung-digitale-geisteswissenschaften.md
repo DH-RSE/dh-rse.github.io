@@ -4,7 +4,7 @@ title: "Welche institutionsübergreifenden Infrastrukturen brauchen wir für ein
 date: 2018-07-16 13:00
 categories: workshop dhd2018 infrastrukturen institutionen professionalität
 # Full author list with affiliations
-author: "Fabian Steeg (steeg@hbz-nrw.de), Sophie Schneider (sophie.schneider@fh-potsdam.de), Peter Gietz (peter.gietz@daasi.de)"
+author: "Fabian Steeg ([steeg@hbz-nrw.de](mailto:steeg@hbz-nrw.de)), Sophie Schneider ([sophie.schneider@fh-potsdam.de](mailto:sophie.schneider@fh-potsdam.de)), Peter Gietz ([peter.gietz@daasi.de](mailto:peter.gietz@daasi.de))"
 # Just the authornames as a comma-separated list for display in blog overview
 authornames: "Fabian Steeg, Sophie Schneider, Peter Gietz"
 

@@ -3,7 +3,7 @@ layout: post
 title:  "DHd2018 Workshop: Keynote von Stephan Janosch (de-RSE)"
 date:   2018-02-22 13:15
 categories: workshop dhd2018
-author: Stephan Druskat
+author: Stephan Druskat ([ORCID iD 0000-0003-4925-7248](https://orcid.org/0000-0003-4925-7248))
 authornames: Stephan Druskat
 ---
 Wir freuen uns ungemein, dass Stephan Janosch beim [Workshop "Research Software 
