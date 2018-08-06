@@ -29,8 +29,8 @@ Positionierung
 Die AG möchte dem DHd-Verband mit Input für die Positionen zur Entwicklung von Forschungssoftware und der Tätigkeit von RSEs unterstützen und zuarbeiten. Dies kann beispielsweise in Form von offenen Papers zu ausgewählten Themen oder auch Handreichungen zB zu Best Practices geschehen.
 
 Mögliche Themen sind:
-– Projektplanung: Ausgewogene Verteilung der Ressourcen auf Software-Pflege und Software-Entwicklung, d.h. Ausgleich zwischen Konsolidierung und Innovation
-– Qualitätskriterien/indikatoren für gute Software: Datenpläne, Dokumentation, Nachnutzbarkeit, Offenheit
-– Stellenwert von Software in Ausschreibungsrichtlinien im Hinblick auf die Konsolidierung, Weiterentwicklung und Nachnutzung bestehender Software
-– Unterstützung der Community-Bildung zur Förderung von nachhaltiger Software-Entwicklung und Infrastrukturen
-– Software-Entwicklungs-Planung: Ausgleich zwischen Generalisierung und Customizing, Arbeit mit flexiblen Frameworks
+- Projektplanung: Ausgewogene Verteilung der Ressourcen auf Software-Pflege und Software-Entwicklung, d.h. Ausgleich zwischen Konsolidierung und Innovation
+- Qualitätskriterien/indikatoren für gute Software: Datenpläne, Dokumentation, Nachnutzbarkeit, Offenheit
+- Stellenwert von Software in Ausschreibungsrichtlinien im Hinblick auf die Konsolidierung, Weiterentwicklung und Nachnutzung bestehender Software
+- Unterstützung der Community-Bildung zur Förderung von nachhaltiger Software-Entwicklung und Infrastrukturen
+- Software-Entwicklungs-Planung: Ausgleich zwischen Generalisierung und Customizing, Arbeit mit flexiblen Frameworks
