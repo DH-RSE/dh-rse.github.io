@@ -4,9 +4,9 @@ title: "Was könnte eine AG DH-RSE im DHd leisten?"
 date: 2018-08-06 13:00
 categories: workshop dhd2018 ag
 # Full author list with affiliations
-author: "Stefan Dumont (dumont@bbaw.de, [ORCID iD 0000-0002-6923-0950](http://orcid.org/0000-0002-6923-0950)), Stephan Janosch (de-RSE, MPI-CBG, [ORCID iD 0000-0002-2401-6862](https://orcid.org/0000-0002-2401-6862)), Torsten Roeder ([ORCID iD 0000-0001-7043-7820](https://orcid.org/0000-0001-7043-7820))"
+author: "Stefan Dumont (dumont@bbaw.de, [ORCID iD 0000-0002-6923-0950](http://orcid.org/0000-0002-6923-0950)), Stephan Janosch (de-RSE, MPI-CBG, [ORCID iD 0000-0002-2401-6862](https://orcid.org/0000-0002-2401-6862)), Torsten Roeder ([ORCID iD 0000-0001-7043-7820](https://orcid.org/0000-0001-7043-7820)), Gunnar Sperveslage"
 # Just the authornames as a comma-separated list for display in blog overview
-authornames: Stefan Dumont, Stephan Janosch, Torsten Roeder
+authornames: Stefan Dumont, Stephan Janosch, Torsten Roeder, Gunnar Sperveslage
 
 # NOTE: To mark the blog post excerpt that should be displayed in the blog
 # overview, use: <!--more-->
