@@ -2,9 +2,9 @@
 layout: post
 title: "AG DH-RSE: Brainstorming zu möglicher Struktur, Infrastruktur, Workflows"
 date: 2018-08-13 13:00
-categories: workshop dhd2018 ag-dh-rse strutkru infrastruktur workflows
+categories: workshop dhd2018 ag-dh-rse struktur infrastruktur workflows
 # Full author list with affiliations
-author: Uwe Kretschmer (Sächsische Akademie der Wissenschaften zu Leipzig), Thomas Kollatz (Akademie der Wissenschaften und der Literatur | Mainz), Patrick Toschka (Akademie der Wissenschaften und der Literatur | Mainz)
+author: Uwe Kretschmer (Sächsische Akademie der Wissenschaften zu Leipzig), Thomas Kollatz (Akademie der Wissenschaften und der Literatur, Mainz), Patrick Toschka (Akademie der Wissenschaften und der Literatur, Mainz)
 # Just the authornames as a comma-separated list for display in blog overview
 authornames: Uwe Kretschmer, Thomas Kollatz, Patrick Toschka
 
@@ -57,7 +57,7 @@ Kriterien zu erarbeiten.
 
 Die Anforderungen an die Tools und Hardware für die Infrastruktur
 richtet sich nach den Bedarfen der zunächst zu erarbeitenden Workflows
-und Strukturen. Neben dem bereits bestehenden GIT könnte beispielsweise
+und Strukturen. Neben dem bereits bestehenden git könnte beispielsweise
 ein Wiki oder ein WebConf Tool eingerichtet werden. Die Mailingliste
 sollte ohne Hierarchie geführt werden, es sollte keinen Moderator geben
 und jede Person innerhalb der Gruppe sollte Mails über den Verteiler
