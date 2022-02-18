@@ -12,10 +12,10 @@ Die AG Research Software Engineering in den Digital Humanities (DH-RSE) möchte 
 
 ## Kontakt/Convenor
 
-Alexander Czmiel
-Berlin-Brandenburgische Akademie der Wissenschaften
-Jägerstrasse 22/23    
-10117 Berlin  
+Alexander Czmiel  
+Berlin-Brandenburgische Akademie der Wissenschaften  
+Jägerstrasse 22/23       
+10117 Berlin    
 
-+49-(0)30-20370-276 
-czmiel@bbaw.de
++49-(0)30-20370-276   
+czmiel@bbaw.de  
