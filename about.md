@@ -12,10 +12,10 @@ Die AG Research Software Engineering in den Digital Humanities (DH-RSE) möchte 
 
 ## Kontakt/Convenor
 
-Torsten Schrade  
-Akademie der Wissenschaften und der Literatur | Mainz  
-Geschwister-Scholl-Str. 2  
-55131 Mainz  
+Alexander Czmiel
+Berlin-Brandenburgische Akademie der Wissenschaften
+Jägerstrasse 22/23    
+10117 Berlin  
 
-Tel. 06131/577119  
-Torsten.Schrade@adwmainz.de
++49-(0)30-20370-276 
+czmiel@bbaw.de
