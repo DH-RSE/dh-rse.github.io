@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Research Software Engineering in den Digital Humanities (DH-RSE)"
-convenor: "Alexander Czmiel" 
-coconvenors: "Ulrike Henny-Krahmer, Daniel Jettka"
+convenor: "Alexander Czmiel, Ulrike Henny-Krahmer, Daniel Jettka" 
+coconvenors: ""
 email: dh-rse+github.io@wissenschaftliche-software.org
-description: "AG Research Software Engineering in den Digital Humanities (im DHd-Verband) -- *DH-RSE*"
+description: "AG Research Software Engineering in den Digital Humanities (im DHd-Verband) -- DH-RSE"
 baseurl: # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jekyll
