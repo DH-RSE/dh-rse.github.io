@@ -9,7 +9,7 @@ order: 5
 
 #### Software Citation
 
-*  https://github.com/DH-RSE/software-citation
+*  <https://github.com/DH-RSE/software-citation>
 
 ### Veranstaltungen
 
@@ -31,8 +31,8 @@ Die Mitgliedschaft ist kostenfrei.
 
 #### Github
 
-Die AG hat bei Github einen Organization Account unter dem sich verschiedene themenbezogene Repositories versammeln, die den Mitgliedern der AG zur Mitarbeit offen stehen: https://github.com/DH-RSE
+Die AG hat bei Github einen Organization Account unter dem sich verschiedene themenbezogene Repositories versammeln, die den Mitgliedern der AG zur Mitarbeit offen stehen: <https://github.com/DH-RSE>
 
 ### Blog (Februar bis August 2018)
 
-Aus dem Gründungsworkshop während der DHd-Jahrestagung in Köln 2018 entstand eine Blog-Reihe zu verschiedenen RSE-Themen: https://dh-rse.github.io/blog.html
+Aus dem Gründungsworkshop während der DHd-Jahrestagung in Köln 2018 entstand eine Blog-Reihe zu verschiedenen RSE-Themen: <https://dh-rse.github.io/blog.html>
