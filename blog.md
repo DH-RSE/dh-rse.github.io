@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 title: Blog
-order: 4
+order: 0
 ---
 
 {% for post in site.posts %}
