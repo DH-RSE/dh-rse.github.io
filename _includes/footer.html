@@ -11,11 +11,8 @@
         <ul class="contact-list">
           <li class="p-name">
             {% if site.convenor %}
-              Convenor: {{ site.convenor | escape }}
+              Convenors: {{ site.convenor | escape }}
             {% endif %}<br/>
-            {% if site.coconvenors %}
-              Co-Convenors: {{ site.coconvenors | escape }}
-            {% endif %}
             </li>
             {% if site.email %}
             <li><a class="u-email" href="mailto:{{ site.email }}">Email</a></li>
