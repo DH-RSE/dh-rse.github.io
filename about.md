@@ -2,7 +2,7 @@
 layout: page
 title: Über die AG
 permalink: /ueber-die-ag/
-order: 3
+order: 1
 ---
 
 
@@ -10,12 +10,3 @@ Die Konzeption, Entwicklung und Anwendung von Software stellt einen integralen B
 
 Die AG Research Software Engineering in den Digital Humanities (DH-RSE) möchte die Position von Softwareentwickler_innen in den Geistes- und Kulturwissenschaften stärken und ihre Forschungsbeiträge innerhalb der Digital Humanities besser sichtbar machen. Die AG bietet ein Forum zur Vernetzung und zum Austausch über verschiedene Themen wie z.B. Entwicklungsstandards, Software Best Practices & Coding Guidelines, Dokumentationsmethoden, Möglichkeiten zur Steigerung der Software-Nachhaltigkeit, Fragen nach den akademischen Karrieremöglichkeiten für RSEs sowie die Diskussion der Rolle von RSEs bei der Akquise von Fördermitteln. Eine gemeinsam geführte Diskussion dieser und vieler weiterer Punkte ist überfällig, um eine professionelle und nachhaltige Entwicklung von Forschungssoftware in den Digital Humanities zu gewährleisten. Auch Workshops im Bereich Software Engineering und Software Carpentry gehören zum Aktionsprogramm der AG. Die AG sieht sich darüber hinaus eingebunden in den nationalen und internationalen Kontext der interdisziplinären Community der Research Software Engineers (RSE). Ganz in diesem Sinne lautet auch das Motto der AG: *Better Software, Better Research!*
 
-## Kontakt/Convenor
-
-Alexander Czmiel  
-Berlin-Brandenburgische Akademie der Wissenschaften  
-Jägerstrasse 22/23       
-10117 Berlin    
-
-+49-(0)30-20370-276   
-czmiel@bbaw.de  

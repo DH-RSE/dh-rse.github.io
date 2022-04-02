@@ -2,7 +2,7 @@
 layout: page
 title: Mitgliedschaft
 permalink: /mitgliedschaft/
-order: 3
+order: 2
 ---
 
 

@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 title: Veranstaltungen
-order: 2
+order: 0
 ---
 
 # Veranstaltungen

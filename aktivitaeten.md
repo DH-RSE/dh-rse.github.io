@@ -2,7 +2,7 @@
 layout: page
 title: Aktivitäten
 permalink: /aktivitaeten/
-order: 5
+order: 3
 ---
 
 ### Themen
