@@ -1,3 +1,11 @@
 .figure-legend {
 	opacity: 0.5;
 }
+
+.site-title::before {
+    content: url(/assets/img/ag-dhrse-logo-md.jpg);
+    display: block;
+    float: left;
+    height: ;
+    margin-right: 20px;
+}
