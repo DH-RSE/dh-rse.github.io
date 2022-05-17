@@ -29,6 +29,12 @@ theme: minima
 plugins:
   - jekyll-feed
 encoding: utf-8
+header_pages:
+  - about.md
+  - mitgliedschaft.md
+  - aktivitaeten.md
+  - ressourcen.md
+  - kontakt.md
 
 # Separator for blog post excerpts
 excerpt_separator: <!--more-->
