@@ -9,8 +9,7 @@ order: 5
 Alexander Czmiel<br/>
 Berlin-Brandenburgische Akademie der Wissenschaften<br/>
 Jägerstrasse 22/23<br/>
-10117 Berlin
-
+10117 Berlin<br/>
 +49-(0)30-20370-276<br/>
 czmiel@bbaw.de<br/>
 
@@ -21,13 +20,11 @@ Institut für Germanistik<br/>
 Universität Rostock<br/>
 Gertrudenstr. 11<br/>
 18057 Rostock<br/>
-
 +49-(0)381-498-2555<br/>
 ulrike.henny-krahmer@uni-rostock.de<br/>
 
 
 Daniel Jettka<br/>
 Musikwissenschaftliches Seminar Detmold/Paderborn<br/>
-Universität Paderborn
-
+Universität Paderborn<br/>
 daniel.jettka@uni-paderborn.de
