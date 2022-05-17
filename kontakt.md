@@ -25,6 +25,8 @@ ulrike.henny-krahmer@uni-rostock.de<br/>
 
 
 Daniel Jettka<br/>
-Musikwissenschaftliches Seminar Detmold/Paderborn<br/>
 Universität Paderborn<br/>
+Musikwissenschaftliches Seminar Detmold/Paderborn<br/>
+Fürstenallee 11<br/>
+33102 Paderborn<br/>
 daniel.jettka@uni-paderborn.de
