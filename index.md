@@ -20,6 +20,6 @@ Dokumentationsmethoden, Möglichkeiten zur Steigerung der Software-Nachhaltigkei
 Fragen nach den akademischen Karrieremöglichkeiten für RSEs sowie die Diskussion 
 der Rolle von RSEs bei der Akquise von Fördermitteln.
 
-Auftakt für ihre Arbeit ist der [Workshop "Research Software Engineering und 
+Auftakt für ihre Arbeit war der [Workshop "Research Software Engineering und 
 Digital Humanities. Reflexion, Kartierung, Organisation.”](https://dh-rse.github.io/dhd-workshop-2018/)
 zur [DHd Konferenz 2018](http://dhd2018.uni-koeln.de/) am 27.2.2018 in Köln.
