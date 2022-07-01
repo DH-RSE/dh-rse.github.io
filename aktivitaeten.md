@@ -14,7 +14,7 @@ order: 3
 ### Veranstaltungen
 
 * Jeden ersten Freitag im Monat trifft sich das Convenor-Team zu einem Organistionstreffen, zu dem auch alle Mitglieder der AG herzlich eingeladen sind.
-* Jeden dritten ersten Freitag findet ein themenbezogenes AG-Treffen statt. Der nächste Termin ist der 1. Juli 2022, um 15 Uhr. Agenda: <https://github.com/DH-RSE/AG/wiki/2022-07-01-AG-DH-RSE-Meeting>
+* Jeden dritten Monat (vierteljährlich) findet am ersten Freitag des Monats ein themenbezogenes AG-Treffen statt. Der nächste Termin ist der 1. Juli 2022, um 15 Uhr. Agenda: <https://github.com/DH-RSE/AG/wiki/2022-07-01-AG-DH-RSE-Meeting>
 
 ### Kommunikationsmittel und -plattformen
 
