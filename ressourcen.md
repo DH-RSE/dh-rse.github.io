@@ -11,6 +11,9 @@ Die ADHO Special Interest Group DH-Tech pflegt eine Liste mit "awesome DH tools"
 
 ### Zeitschriften
 - Construction KIT (CKIT): a review journal for research tools and data services in the humanities: <https://journals.ub.uni-heidelberg.de/index.php/ckit/index>
+- RIDE: A review journal for digital editions and resources: <https://ride.i-d-e.de>
+
+In der Zeitschrift RIDE sind vor allem die Rezensionen zu "Tools and Environments" relevant, siehe in der Issue-Übersicht z.B. Issue 11: <https://ride.i-d-e.de/issues/>
 
 ### Handreichungen
 - Diskussionsbeitrag: Handreichung zur Rezension von Forschungssoftware in der Archäologie und den Altertumswissenschaften: <https://doi.org/10.11588/ai.2020.1.81422>
