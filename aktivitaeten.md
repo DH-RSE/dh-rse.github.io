@@ -25,7 +25,7 @@ Reserach Software Engineering in den Digital Humanities. Mitglied der AG DH-RSE 
 
 Die Liste kann hier abonniert werden:
 
-[https://mailman.bbaw.de/mailman/listinfo/ag-dhrse](https://list.bbaw.de/postorius/lists/ag-dhrse.mlist.bbaw.de/).
+<https://list.bbaw.de/postorius/lists/ag-dhrse.mlist.bbaw.de>.
 
 Die Mitgliedschaft ist kostenfrei.
 
