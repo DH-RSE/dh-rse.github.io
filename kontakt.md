@@ -30,3 +30,11 @@ Musikwissenschaftliches Seminar Detmold/Paderborn<br/>
 Fürstenallee 11<br/>
 33102 Paderborn<br/>
 daniel.jettka@uni-paderborn.de
+
+
+Sabina Mollenhauer<br/>
+Universität Vechta<br/>
+Kulturwissenschaften (AG Digital Humanities)<br/>
+Driverstraße 22<br/>
+49377 Vechta<br/>
+sabina.mollenhauer@uni-vechta.de
