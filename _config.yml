@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Research Software Engineering in den Digital Humanities (DH-RSE)"
-convenor: "Alexander Czmiel, Ulrike Henny-Krahmer, Daniel Jettka" 
+convenor: "Ulrike Henny-Krahmer, Sabina Mollenhauer, Jan Oliver Rüdiger" 
 coconvenors: ""
 email: dh-rse+github.io@wissenschaftliche-software.org
 description: "AG Research Software Engineering in den Digital Humanities (im DHd-Verband) -- DH-RSE"
