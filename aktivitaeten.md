@@ -14,7 +14,7 @@ order: 3
 ### Veranstaltungen
 Im Juni 2025 findet ein Re-launch der AG mit neuer Mailingliste und neuem Treffenszyklus statt:
 * Geplant sind regelmäßige **Online-Treffen im Zweimonatsrhythmus** sowie **1–2 Präsenzworkshops pro Jahr**.
-* Das erste Online-Treffen findet am 27. Juni 2025 statt. 
+* Das erste Online-Treffen findet am 27. Juni 2025 um 13:00 Uhr statt. 
 * Die Agenda und die Protokolle sind jeweils im GitHub Wiki zu finden: [https://github.com/DH-RSE/AG/wiki](https://github.com/DH-RSE/AG/wiki)
 
 ### Kommunikationsmittel und -plattformen
