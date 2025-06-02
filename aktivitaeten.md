@@ -12,9 +12,10 @@ order: 3
 *  <https://github.com/DH-RSE/software-citation>
 
 ### Veranstaltungen
-
-* Jeden ersten Dienstag im Monat trifft sich das Convenor-Team zu einem Organistionstreffen, zu dem auch alle Mitglieder der AG herzlich eingeladen sind.
-* Jeden dritten Monat (vierteljährlich) findet ein themenbezogenes AG-Treffen statt. Die Agenda und die Protokolle sind jeweils im GitHub Wiki zu finden: [https://github.com/DH-RSE/AG/wiki](https://github.com/DH-RSE/AG/wiki)
+Im Juni 2025 findet ein Re-launch der AG mit neuer Mailingliste und neuem Treffenszyklus statt:
+* Geplant sind regelmäßige **Online-Treffen im Zweimonatsrhythmus** sowie **1–2 Präsenzworkshops pro Jahr**.
+* Das erste Online-Treffen findet am 27. Juni 2025 statt. 
+* Die Agenda und die Protokolle sind jeweils im GitHub Wiki zu finden: [https://github.com/DH-RSE/AG/wiki](https://github.com/DH-RSE/AG/wiki)
 
 ### Kommunikationsmittel und -plattformen
 
@@ -25,7 +26,7 @@ Reserach Software Engineering in den Digital Humanities. Mitglied der AG DH-RSE 
 
 Die Liste kann hier abonniert werden:
 
-<https://list.bbaw.de/postorius/lists/ag-dhrse.mlist.bbaw.de>.
+<https://www.listserv.dfn.de/sympa/info/ag-dhrse>.
 
 Die Mitgliedschaft ist kostenfrei.
 
