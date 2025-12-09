@@ -11,7 +11,7 @@ Mitglieder der AG DH-RSE:
 
 * Alexander Czmiel (Berlin-Brandenburgische Akademie der Wissenschaften)
 * Anne Ferger (Universität Paderborn)
-* Ulrike Henny-Krahmer (Convenerin)
+* Ulrike Henny-Krahmer (Universität Rostok)
 * Daniel Jettka (Universität Paderborn)
 * Dominik Leipold (Ludwig-Maximilians-Universität München, Kritische Ausgabe der Werke von Richard Strauss)
 * Sabina Mollenhauer (Universität Vechta, Convenerin)
